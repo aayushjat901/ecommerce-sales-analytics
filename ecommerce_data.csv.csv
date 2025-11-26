@@ -1,0 +1,21 @@
+OrderID,OrderDate,CustomerID,Product,Category,Quantity,UnitPrice,TotalSales,TotalProfit,Region,Channel
+1001,1/5/2024,C001,Phone,Electronics,1,20000,20000,2500,Delhi,Facebook
+1002,1/7/2024,C002,Laptop,Electronics,1,55000,55000,8000,Mumbai,Google
+1003,1/8/2024,C003,Headphones,Accessories,2,1500,3000,700,Bengaluru,Instagram
+1004,1/12/2024,C001,Phone Case,Accessories,3,200,600,200,Delhi,Facebook
+1005,1/13/2024,C004,Tablet,Electronics,1,30000,30000,5000,Kolkata,Google
+1006,1/14/2024,C005,Shoes,Fashion,2,2500,5000,1000,Mumbai,Facebook
+1007,1/15/2024,C002,Smart Watch,Electronics,1,8000,8000,1200,Chennai,Google
+1008,1/17/2024,C006,T-shirt,Fashion,3,900,2700,450,Bengaluru,Instagram
+1009,1/19/2024,C007,Laptop,Electronics,1,60000,60000,9000,Delhi,Facebook
+1010,1/20/2024,C008,Phone,Electronics,1,21000,21000,3000,Kolkata,Instagram
+1011,1/22/2024,C009,Jacket,Fashion,2,3000,6000,900,Mumbai,Google
+1012,1/23/2024,C010,Headphones,Accessories,1,1500,1500,500,Delhi,Facebook
+1013,1/25/2024,C011,Tablet,Electronics,2,28000,56000,7000,Bengaluru,Instagram
+1014,1/26/2024,C012,Shoes,Fashion,1,2800,2800,400,Mumbai,Google
+1015,1/27/2024,C001,Smart Watch,Electronics,1,7800,7800,1000,Delhi,Instagram
+1016,1/28/2024,C013,Phone Case,Accessories,2,250,500,150,Kolkata,Facebook
+1017,1/29/2024,C014,T-shirt,Fashion,1,950,950,200,Chennai,Google
+1018,1/30/2024,C015,Laptop,Electronics,1,59000,59000,8500,Bengaluru,Instagram
+1019,2/1/2024,C002,Phone,Electronics,1,22000,22000,3000,Delhi,Facebook
+1020,2/2/2024,C009,Jacket,Fashion,1,3200,3200,600,Mumbai,Google
