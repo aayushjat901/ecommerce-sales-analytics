@@ -58,7 +58,22 @@ This dashboard helps any retail/e-commerce business:
 - Monitor monthly trends
 - Take actions for low-performing segments
 
----
+---## 🟦 Power BI Dashboard Version
+
+A Power BI version of this dashboard is also available.
+
+This includes:
+- Interactive slicers
+- KPI cards
+- Sales trend line chart
+- Revenue by product, region and channel
+
+You can find the Power BI file here:
+`/powerbi-dashboard/dashboard.pbix`
+
+Below is a preview of the Power BI dashboard:
+![Power BI Dashboard](powerbi-dashboard/dashboard-screenshot.png)
+
 
 ## 👤 Author
 Aayush Jat  
