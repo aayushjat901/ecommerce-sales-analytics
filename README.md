@@ -72,7 +72,7 @@ You can find the Power BI file here:
 `/powerbi-dashboard/dashboard.pbix`
 
 Below is a preview of the Power BI dashboard:
-![Power BI Dashboard](powerbi-dashboard/dashboard-screenshot.png)
+![Power BI Dashboard](dashboard-screenshot.png)
 
 
 ## 👤 Author
